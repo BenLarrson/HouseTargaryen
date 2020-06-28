@@ -17,7 +17,7 @@ if (isTouchDevice) {
     var tag = document.createElement('script');
     var videoID = "rQNOBV4y8Ns"
     var videoVolume = 100
-    var starttime = 12 // 101.7
+    var starttime = 32 // 101.7
     var endtime = 164 //165
     var loopcount = 1
 
